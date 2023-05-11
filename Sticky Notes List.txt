@@ -1,0 +1,155 @@
+Jenkins
+
+http://sischnprosun03.sfl-sis.sfl.ad/svn/ProjSunDocs/NonConfigurableItems/ResearchandDevelopment/POC/Jenkins
+
+
+http://192.168.9.6:7101/jenkins/
+
+Customer id 154742741
+
+http://10.10.100.34:7301/console/
+
+SFLCHNBETAWL02.sfl.ad & 8101
+psMS8
+
+
+Dear Team,
+
+Kindly restart all managed server in SHFL 12C BETA ONLINE
+
+192.168.17.88 & 7001
+
+Regards,
+Divya Murugan
+
+9952397902
+
+Dear Team,
+
+Kindly restart all the managed server in SHFLTEST 12C.(URGENT)
+
+http://10.10.100.36:9001/console
+
+Thanks and Regards,
+Divya Murugan
+
+
+PSTEST
+Link : http://10.10.100.34:7303/psadslogin
+
+User ID : 900065
+Password : Goodshow2016@
+
+
+HOMELIVE@HOMEBETPDB
+
+SBNPPHFLLIVE@HOMELIVE
+
+VEERA - 4322
+SAIBU - 4122
+
+
+http://192.168.17.32/hfslogin/Appln/HomePage
+
+
+Beta weblogic
+http://sflchnbetawl02.sfl.ad:8101/console
+
+Test Weblogic
+
+
+CL8105
+CL8105_118739_Addressing_Log4j_Vulnerability
+
+
+
+
+
+
+
+CL2283
+Fortnight Release
+
+
+
+8825806785
+
+metro pwd
+
+Aadhira18@
+
+http://10.10.100.140:9001/console 
+
+2701
+dev
+
+
+divya@sundaraminfotech.in
+
+http://sischnprosun03:3343/csvn/login/auth
+
+psbrowusr
+pwd : srlzero
+
+SHFL - Jenkins access URL         -  http://shflchndevops01.sundaramhome.ad:7003/jenkins/
+Config Board’s User ID               -    jkcfg
+Password                                      -    Investment@123
+
+
+
+
+
+Venkatkb
+NILAkb@1522
+
+
+
+
+https://www.happyscribe.com/transcription-jobs
+
+
+hdfc - 18002806161
+
+
+http://sischnprosun03.sfl-sis.sfl.ad:3343/csvn/
+
+
+http://sischnprosun03.sfl-sis.sfl.ad/svn/ProjSunDocs/NonConfigurableItems/ResearchandDevelopment/POC/Jenkins/Docs/ps- a guideline document to create projects under Jenkins.docx
+
+jkadmin01
+Kingdom@123
+
+
+http://10.10.100.34:7301/console/
+
+http://sischnsvn02:3343/csvn/login/auth
+
+C:\DevOps\build_config
+
+http://ps-jayaka:7101/jenkins/view/SQL_SCRIPT/
+
+senthil4117@gmail.com
+
+extension
+
+Vinodhini 4310
+
+192.168.8.247
+
+
+Dear Team,
+
+Kindly restart all the managed server in SHFLTEST 12C
+
+http://10.10.100.36:9001/console
+
+
+INFY-2R9FTVVPSR
+
+
+svn url
+
+http://sischnprosun03/svn/
+
+http://sischnprosun03:7503/jenkins/view/B.%20CONFIG_UAT/
+
